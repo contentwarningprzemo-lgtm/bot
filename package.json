@@ -1,0 +1,8 @@
+{
+  "name": "twoja-bociarka",
+  "version": "1.0.0",
+  "main": "bociarka.js",
+  "scripts": {
+    "start": "node bociarka.js"
+  }
+}
