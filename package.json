@@ -4,5 +4,8 @@
   "main": "bociarka.js",
   "scripts": {
     "start": "node bociarka.js"
+  },
+  "dependencies": {
+    "mineflayer": "^4.20.0"
   }
 }
