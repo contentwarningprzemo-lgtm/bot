@@ -13,7 +13,7 @@ const CONFIG = {
 
     targetPlayer: "qwdqwxx",
 
-    BOT_COUNT: 3,
+    BOT_COUNT: 2,
     botDelay: 5000,
 
     reconnectDelay: 30000,
